@@ -1,0 +1,278 @@
+{
+    "popularseries": [
+        {
+          "id": "1",
+          "image": "http://localhost:5173/img/mov-zakhm.webp",
+          "ekhtesasi": true,
+          "detail": {
+            "id": "1",
+            "background": "img/slider2/bibadan/bg.webp",
+            "logo": "http://localhost:5173/img/mov_logo_zakhm.webp",
+            "title": "زخم کاری:انتقام",
+            "artist": "کارگردان: محمدحسین مهدویان",
+            "zhanr": ["درام", "خانوادگی"],
+            "desc": "مالک آخرین برگ بازیش را رو می کند. او فاتحانه نشسته بر سریر خون، پا در مسیری می گذارد که هنوز بوی خون از آن به مشام می رسد.",
+    
+            "slider": [
+              {
+                "id": "1",
+                "title": "فصل 1 قسمت 1",
+                "image": "http://localhost:5173/img/slider2/zakhm-1.webp",
+                "lock": true
+              },
+              {
+                "id": "2",
+                "title": "فصل 1 قسمت 2",
+                "image": "http://localhost:5173/img/slider2/zakhm-2.webp",
+                "lock": true
+              },
+              {
+                "id": "3",
+                "title": "فصل 1 قسمت 3",
+                "image": "http://localhost:5173/img/slider2/zakhm-3.webp",
+                "lock": true
+              },
+              {
+                "id": "4",
+                "title": "فصل 1 قسمت 4",
+                "image": "http://localhost:5173/img/slider2/zakhm-4.webp",
+                "lock": true
+              },
+              {
+                "id": "5",
+                "title": "فصل 1 قسمت 5",
+                "image": "http://localhost:5173/img/slider2/zakhm-1.webp",
+                "lock": true
+              },
+              {
+                "id": "6",
+                "title": "فصل 1 قسمت 6",
+                "image": "http://localhost:5173/img/slider2/zakhm-2.webp",
+                "lock": true
+              },
+              {
+                "id": "7",
+                "title": "فصل 1 قسمت 7",
+                "image": "http://localhost:5173/img/slider2/zakhm-3.webp",
+                "lock": true
+              },
+              {
+                "id": "8",
+                "title": "فصل 1 قسمت 8",
+                "image": "http://localhost:5173/img/slider2/zakhm-4.webp",
+                "lock": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "image": "http://localhost:5173/img/mov_2.webp",
+          "ekhtesasi": true,
+          "detail": {
+            "id": "1",
+            "background": "http://localhost:5173/img/bg/bg2.webp",
+            "logo": "http://localhost:5173/img/logo/logo2.webp",
+            "title": "گل یا پوچ",
+            "artist": "",
+            "zhanr": ["ریلیتی شو", "خانوادگی"],
+            "desc": "اگه یک قدمی شکست هم بودی، لبخند بزن تا حریفت به پیروزیش شک کنه!",
+    
+            "slider": [
+              {
+                "id": "1",
+                "title": "فصل 1 قسمت 1",
+                "image": "http://localhost:5173/img/slider2/gol/1.webp",
+                "lock": true
+              },
+              {
+                "id": "2",
+                "title": "فصل 1 قسمت 2",
+                "image": "http://localhost:5173/img/slider2/gol/2.webp",
+                "lock": true
+              },
+              {
+                "id": "3",
+                "title": "فصل 1 قسمت 3",
+                "image": "http://localhost:5173/img/slider2/gol/3.webp",
+                "lock": true
+              },
+              {
+                "id": "4",
+                "title": "فصل 1 قسمت 4",
+                "image": "http://localhost:5173/img/slider2/gol/4.webp",
+                "lock": true
+              },
+              {
+                "id": "5",
+                "title": "فصل 1 قسمت 5",
+                "image": "http://localhost:5173/img/slider2/gol/1.webp",
+                "lock": true
+              },
+              {
+                "id": "6",
+                "title": "فصل 1 قسمت 6",
+                "image": "http://localhost:5173/img/slider2/gol/2.webp",
+                "lock": true
+              },
+              {
+                "id": "7",
+                "title": "فصل 1 قسمت 7",
+                "image": "http://localhost:5173/img/slider2/gol/3.webp",
+                "lock": true
+              },
+              {
+                "id": "8",
+                "title": "فصل 1 قسمت 8",
+                "image": "http://localhost:5173/img/slider2/gol/4.webp",
+                "lock": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "image": "http://localhost:5173/img/mov_3.webp",
+          "ekhtesasi": true,
+          "detail": {
+            "id": "1",
+            "background": "http://localhost:5173/img/slider2/mov_cvr_filimo_hor_149913_312%20.webp",
+            "logo": "http://localhost:5173/img/logo/logo3.webp",
+            "title": " جوکر 2",
+            "artist": "کارگردان: احسان علیخانی",
+            "zhanr": ["ریلیتی شو", "کمدی"],
+            "desc": "«جوکر۲؛ طبقه بیست و یک» با تغییرات جذابی شروع شده. میزبان این سری برنامه جوکر، کسی نیست جز احسان علیخانی که پشت میزی پر از امکانات جدید نشسته و شرکت کننده ها رو در دکور بزرگ تر و مدرن تر این سری از جوکر زیر نظر داره. دکور جوکر ٢ کلی جاهای مخفی داره که البته برای احسان علیخانی چندان مخفی نیست و خودش با استفاده از اون ها بازیگرها رو درگیر چالش هایی می کنه که نخندیدن براشون خیلی سخت میشه و در ٦ ساعت بازی، زیاد فرصتی برای نفس راحت کشیدن ندارن. البته چیزی که قرار نیست هیچکس یادش بره اینه که بقیه رو بخندون اما خودت نخند.",
+    
+            "slider": [
+              {
+                "id": "1",
+                "title": "فصل 1 قسمت 1",
+                "image": "http://localhost:5173/img/slider2/joker/1.webp",
+                "lock": true
+              },
+              {
+                "id": "2",
+                "title": "فصل 1 قسمت 2",
+                "image": "http://localhost:5173/img/slider2/joker/2.webp",
+                "lock": true
+              },
+              {
+                "id": "3",
+                "title": "فصل 1 قسمت 3",
+                "image": "http://localhost:5173/img/slider2/joker/3.webp",
+                "lock": true
+              },
+              {
+                "id": "4",
+                "title": "فصل 1 قسمت 4",
+                "image": "http://localhost:5173/img/slider2/joker/4.webp",
+                "lock": true
+              },
+              {
+                "id": "5",
+                "title": "فصل 1 قسمت 5",
+                "image": "http://localhost:5173/img/slider2/joker/1.webp",
+                "lock": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "4",
+          "image": "http://localhost:5173/img/mov_4.webp",
+          "ekhtesasi": false,
+          "detail": {
+            "id": "1",
+            "background": "http://localhost:5173/img/bg/bg4.webp",
+            "title": "بازنده",
+            "artist": "کارگردان: امین حسین پور",
+            "zhanr": ["رازآلود", "جنایی"],
+            "desc": " علیرضا کمالی در نقش کارآگاه کیانی درگیر پرونده ای پیچیده می شود که رازهای بزرگی از یک خانواده را برملا می کند.",
+    
+            "slider": [
+              {
+                "id": "1",
+                "title": "فصل 1 قسمت 1",
+                "image": "http://localhost:5173/img/slider2/bazande.webp",
+                "lock": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "5",
+          "image": "http://localhost:5173/img/mov_5.webp",
+          "ekhtesasi": false,
+          "detail": {
+            "id": "1",
+            "background": "http://localhost:5173/img/bg/bg5.webp",
+            "logo": "http://localhost:5173/img/logo/logo5.webp",
+            "title": "سرگیجه",
+            "artist": "کارگردان: محمد حاتمی",
+            "zhanr": ["خانوادگی", "ریلیتی شو"],
+            "desc": " این قسمت همه چی بدجوری خط رو خط و قاطی پاتیه. ما گل های خندانیم، فرزندان ایرانیم. هوهو چی چی، هوهو چی چی. مردونه و مشهدی زد، غوغا کردی آذرخش مشهدی. شنیدم ازدواج کردی بی معرفت؟",
+    
+            "slider": [
+              {
+                "id": "1",
+                "title": "فصل 1 قسمت 1",
+                "image": "http://localhost:5173/img/slider2/sargije/1.webp",
+                "lock": true
+              },
+              {
+                "id": "2",
+                "title": "فصل 1 قسمت 2",
+                "image": "http://localhost:5173/img/slider2/sargije/2.webp",
+                "lock": true
+              },
+              {
+                "id": "3",
+                "title": "فصل 1 قسمت 3",
+                "image": "http://localhost:5173/img/slider2/sargije/3.webp",
+                "lock": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "6",
+          "image": "http://localhost:5173/img/mov_6.webp",
+          "ekhtesasi": true,
+          "detail": {
+            "id": "1",
+            "background": "http://localhost:5173/img/bg/bg6.webp",
+            "title": "لالایی",
+            "artist": "کارگردان: احمد درویشعلی پور",
+            "zhanr": ["موسیقی", "خانوادگی"],
+            "desc": "مسعود بعد از ماجراهایی که رقم می خورد، در می یابد که تنها راه رسیدن به اسرار صندوقچه ای که مادرش به خاله گلشن سپرده، پاداش حکمت است...",
+    
+            "slider": [
+              {
+                "id": "1",
+                "title": "فصل 1 قسمت 1",
+                "image": "http://localhost:5173/img/slider2/lala/1.webp",
+                "lock": true
+              },
+              {
+                "id": "2",
+                "title": "فصل 1 قسمت 2",
+                "image": "http://localhost:5173/img/slider2/lala/2.webp",
+                "lock": true
+              },
+              {
+                "id": "3",
+                "title": "فصل 1 قسمت 3",
+                "image": "http://localhost:5173/img/slider2/lala/3.webp",
+                "lock": true
+              },
+              {
+                "id": "4",
+                "title": "فصل 1 قسمت 4",
+                "image": "http://localhost:5173/img/slider2/lala/4.webp",
+                "lock": true
+              }
+            ]
+          }
+        }
+      ]
+}

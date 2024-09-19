@@ -1,0 +1,52 @@
+{
+    "zakhmkari": [
+      {
+        "id": "1",
+        "title": "فصل 1 قسمت 1",
+        "image": "http://localhost:5173/img/slider2/zakhm-1.webp",
+        "lock": true
+      },
+      {
+        "id": "2",
+        "title": "فصل 1 قسمت 1",
+        "image": "http://localhost:5173/img/slider2/zakhm-2.webp",
+        "lock": true
+      },
+      {
+        "id": "3",
+        "title": "فصل 1 قسمت 1",
+        "image": "http://localhost:5173/img/slider2/zakhm-3.webp",
+        "lock": true
+      },
+      {
+        "id": "4",
+        "title": "فصل 1 قسمت 1",
+        "image": "http://localhost:5173/img/slider2/zakhm-4.webp",
+        "lock": true
+      },
+      {
+        "id": "5",
+        "title": "فصل 1 قسمت 1",
+        "image": "http://localhost:5173/img/slider2/zakhm-1.webp",
+        "lock": true
+      },
+      {
+        "id": "6",
+        "title": "فصل 1 قسمت 1",
+        "image": "http://localhost:5173/img/slider2/zakhm-2.webp",
+        "lock": true
+      },
+      {
+        "id": "7",
+        "title": "فصل 1 قسمت 1",
+        "image": "http://localhost:5173/img/slider2/zakhm-3.webp",
+        "lock": true
+      },
+      {
+        "id": "8",
+        "title": "فصل 1 قسمت 1",
+        "image": "http://localhost:5173/img/slider2/zakhm-4.webp",
+        "lock": true
+      }
+    ]
+}
