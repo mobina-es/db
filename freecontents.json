@@ -1,47 +1,47 @@
 [
   {
     "id": "1",
-    "image": "./img/slider1/ax1.webp",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax1.webp",
     "title": "شاهرگ"
   },
   {
     "id": "2",
-    "image": "./img/slider1/ax2.jpg",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax2.jpg",
     "title": "بالشها"
   },
   {
     "id": "3",
-    "image": "./slider1/ax3.jpg",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax3.jpg",
     "title": "ویرانگر"
   },
   {
     "id": "4",
-    "image": "./img/slider1/ax4.jpg",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax4.jpg",
     "title": "ملکه گدایان"
   },
   {
     "id": "4",
-    "image": "./img/slider1/ax5.jpg",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax5.jpg",
     "title": "عقرب"
   },
   {
     "id": "6",
-    "image": "./img/slider1/ax6.jpg",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax6.jpg",
     "title": "پایتخت"
   },
   {
     "id": "7",
-    "image": "./img/slider1/ax7.jpg",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax7.jpg",
     "title": "حماسه دره شیلر"
   },
   {
     "id": "8",
-    "image": "./img/slider1/ax8.jpg",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax8.jpg",
     "title": "راز دشت تاران"
   },
   {
     "id": "9",
-    "image": "./img/slider1/ax9.jpg",
+    "image": "https://mobina-es.github.io/db/img/slider1/ax9.jpg",
     "title": "چپ دست"
   }
 ]
