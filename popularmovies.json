@@ -1,14 +1,12 @@
-{
-    "popularmovies": [
-      {
-        "id": "1",
-        "image": "http://localhost:5173/img/mov_7.webp",
-        "ekhtesasi": true
-      },
-      {
-        "id": "2",
-        "image": "http://localhost:5173/img/mov_8.webp",
-        "ekhtesasi": false
-      }
-    ]
-}
+[
+  {
+    "id": "1",
+    "image": "http://localhost:5173/img/mov_7.webp",
+    "ekhtesasi": true
+  },
+  {
+    "id": "2",
+    "image": "http://localhost:5173/img/mov_8.webp",
+    "ekhtesasi": false
+  }
+]

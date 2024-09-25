@@ -1,11 +1,9 @@
-{
-    "blurpart": [
-        {
-          "id": "1",
-          "title": "تمساح خونی",
-          "artist": "کارگردان: احمد درویشعلی پور",
-          "zhanr": ["کمدی", "اکشن"],
-          "image": "http://localhost:5173/img/temsah.png"
-        }
-      ]
-}
+[
+  {
+    "id": "1",
+    "title": "تمساح خونی",
+    "artist": "کارگردان: احمد درویشعلی پور",
+    "zhanr": ["کمدی", "اکشن"],
+    "image": "http://localhost:5173/img/temsah.png"
+  }
+]
