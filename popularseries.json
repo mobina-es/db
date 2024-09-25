@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "image": "http://localhost:5173/img/mov-zakhm.webp",
+    "image": "/img/mov-zakhm.webp",
     "ekhtesasi": true,
     "detail": {
       "id": "1",
       "background": "img/slider2/bibadan/bg.webp",
-      "logo": "http://localhost:5173/img/mov_logo_zakhm.webp",
+      "logo": "/img/mov_logo_zakhm.webp",
       "title": "زخم کاری:انتقام",
       "artist": "کارگردان: محمدحسین مهدویان",
       "zhanr": ["درام", "خانوادگی"],
@@ -16,49 +16,49 @@
         {
           "id": "1",
           "title": "فصل 1 قسمت 1",
-          "image": "http://localhost:5173/img/slider2/zakhm-1.webp",
+          "image": "/img/slider2/zakhm-1.webp",
           "lock": true
         },
         {
           "id": "2",
           "title": "فصل 1 قسمت 2",
-          "image": "http://localhost:5173/img/slider2/zakhm-2.webp",
+          "image": "/img/slider2/zakhm-2.webp",
           "lock": true
         },
         {
           "id": "3",
           "title": "فصل 1 قسمت 3",
-          "image": "http://localhost:5173/img/slider2/zakhm-3.webp",
+          "image": "/img/slider2/zakhm-3.webp",
           "lock": true
         },
         {
           "id": "4",
           "title": "فصل 1 قسمت 4",
-          "image": "http://localhost:5173/img/slider2/zakhm-4.webp",
+          "image": "./img/slider2/zakhm-4.webp",
           "lock": true
         },
         {
           "id": "5",
           "title": "فصل 1 قسمت 5",
-          "image": "http://localhost:5173/img/slider2/zakhm-1.webp",
+          "image": "./img/slider2/zakhm-1.webp",
           "lock": true
         },
         {
           "id": "6",
           "title": "فصل 1 قسمت 6",
-          "image": "http://localhost:5173/img/slider2/zakhm-2.webp",
+          "image": "./img/slider2/zakhm-2.webp",
           "lock": true
         },
         {
           "id": "7",
           "title": "فصل 1 قسمت 7",
-          "image": "http://localhost:5173/img/slider2/zakhm-3.webp",
+          "image": "./img/slider2/zakhm-3.webp",
           "lock": true
         },
         {
           "id": "8",
           "title": "فصل 1 قسمت 8",
-          "image": "http://localhost:5173/img/slider2/zakhm-4.webp",
+          "image": "./img/slider2/zakhm-4.webp",
           "lock": true
         }
       ]
@@ -66,12 +66,12 @@
   },
   {
     "id": "2",
-    "image": "http://localhost:5173/img/mov_2.webp",
+    "image": "./img/mov_2.webp",
     "ekhtesasi": true,
     "detail": {
       "id": "1",
-      "background": "http://localhost:5173/img/bg/bg2.webp",
-      "logo": "http://localhost:5173/img/logo/logo2.webp",
+      "background": "./img/bg/bg2.webp",
+      "logo": "./img/logo/logo2.webp",
       "title": "گل یا پوچ",
       "artist": "",
       "zhanr": ["ریلیتی شو", "خانوادگی"],
@@ -81,49 +81,49 @@
         {
           "id": "1",
           "title": "فصل 1 قسمت 1",
-          "image": "http://localhost:5173/img/slider2/gol/1.webp",
+          "image": "./img/slider2/gol/1.webp",
           "lock": true
         },
         {
           "id": "2",
           "title": "فصل 1 قسمت 2",
-          "image": "http://localhost:5173/img/slider2/gol/2.webp",
+          "image": "./img/slider2/gol/2.webp",
           "lock": true
         },
         {
           "id": "3",
           "title": "فصل 1 قسمت 3",
-          "image": "http://localhost:5173/img/slider2/gol/3.webp",
+          "image": "./img/slider2/gol/3.webp",
           "lock": true
         },
         {
           "id": "4",
           "title": "فصل 1 قسمت 4",
-          "image": "http://localhost:5173/img/slider2/gol/4.webp",
+          "image": "./img/slider2/gol/4.webp",
           "lock": true
         },
         {
           "id": "5",
           "title": "فصل 1 قسمت 5",
-          "image": "http://localhost:5173/img/slider2/gol/1.webp",
+          "image": "./img/slider2/gol/1.webp",
           "lock": true
         },
         {
           "id": "6",
           "title": "فصل 1 قسمت 6",
-          "image": "http://localhost:5173/img/slider2/gol/2.webp",
+          "image": "./img/slider2/gol/2.webp",
           "lock": true
         },
         {
           "id": "7",
           "title": "فصل 1 قسمت 7",
-          "image": "http://localhost:5173/img/slider2/gol/3.webp",
+          "image": "./img/slider2/gol/3.webp",
           "lock": true
         },
         {
           "id": "8",
           "title": "فصل 1 قسمت 8",
-          "image": "http://localhost:5173/img/slider2/gol/4.webp",
+          "image": "./img/slider2/gol/4.webp",
           "lock": true
         }
       ]
@@ -131,12 +131,12 @@
   },
   {
     "id": "3",
-    "image": "http://localhost:5173/img/mov_3.webp",
+    "image": "./img/mov_3.webp",
     "ekhtesasi": true,
     "detail": {
       "id": "1",
-      "background": "http://localhost:5173/img/slider2/mov_cvr_filimo_hor_149913_312%20.webp",
-      "logo": "http://localhost:5173/img/logo/logo3.webp",
+      "background": "./img/slider2/mov_cvr_filimo_hor_149913_312%20.webp",
+      "logo": "./img/logo/logo3.webp",
       "title": " جوکر 2",
       "artist": "کارگردان: احسان علیخانی",
       "zhanr": ["ریلیتی شو", "کمدی"],
@@ -146,31 +146,31 @@
         {
           "id": "1",
           "title": "فصل 1 قسمت 1",
-          "image": "http://localhost:5173/img/slider2/joker/1.webp",
+          "image": "./img/slider2/joker/1.webp",
           "lock": true
         },
         {
           "id": "2",
           "title": "فصل 1 قسمت 2",
-          "image": "http://localhost:5173/img/slider2/joker/2.webp",
+          "image": "./img/slider2/joker/2.webp",
           "lock": true
         },
         {
           "id": "3",
           "title": "فصل 1 قسمت 3",
-          "image": "http://localhost:5173/img/slider2/joker/3.webp",
+          "image": "./img/slider2/joker/3.webp",
           "lock": true
         },
         {
           "id": "4",
           "title": "فصل 1 قسمت 4",
-          "image": "http://localhost:5173/img/slider2/joker/4.webp",
+          "image": "./img/slider2/joker/4.webp",
           "lock": true
         },
         {
           "id": "5",
           "title": "فصل 1 قسمت 5",
-          "image": "http://localhost:5173/img/slider2/joker/1.webp",
+          "image": "./img/slider2/joker/1.webp",
           "lock": true
         }
       ]
@@ -178,11 +178,11 @@
   },
   {
     "id": "4",
-    "image": "http://localhost:5173/img/mov_4.webp",
+    "image": "./img/mov_4.webp",
     "ekhtesasi": false,
     "detail": {
       "id": "1",
-      "background": "http://localhost:5173/img/bg/bg4.webp",
+      "background": "./img/bg/bg4.webp",
       "title": "بازنده",
       "artist": "کارگردان: امین حسین پور",
       "zhanr": ["رازآلود", "جنایی"],
@@ -192,7 +192,7 @@
         {
           "id": "1",
           "title": "فصل 1 قسمت 1",
-          "image": "http://localhost:5173/img/slider2/bazande.webp",
+          "image": "./img/slider2/bazande.webp",
           "lock": true
         }
       ]
@@ -200,12 +200,12 @@
   },
   {
     "id": "5",
-    "image": "http://localhost:5173/img/mov_5.webp",
+    "image": "./img/mov_5.webp",
     "ekhtesasi": false,
     "detail": {
       "id": "1",
-      "background": "http://localhost:5173/img/bg/bg5.webp",
-      "logo": "http://localhost:5173/img/logo/logo5.webp",
+      "background": "./img/bg/bg5.webp",
+      "logo": "./img/logo/logo5.webp",
       "title": "سرگیجه",
       "artist": "کارگردان: محمد حاتمی",
       "zhanr": ["خانوادگی", "ریلیتی شو"],
@@ -215,19 +215,19 @@
         {
           "id": "1",
           "title": "فصل 1 قسمت 1",
-          "image": "http://localhost:5173/img/slider2/sargije/1.webp",
+          "image": "./img/slider2/sargije/1.webp",
           "lock": true
         },
         {
           "id": "2",
           "title": "فصل 1 قسمت 2",
-          "image": "http://localhost:5173/img/slider2/sargije/2.webp",
+          "image": "./img/slider2/sargije/2.webp",
           "lock": true
         },
         {
           "id": "3",
           "title": "فصل 1 قسمت 3",
-          "image": "http://localhost:5173/img/slider2/sargije/3.webp",
+          "image": "./img/slider2/sargije/3.webp",
           "lock": true
         }
       ]
@@ -235,11 +235,11 @@
   },
   {
     "id": "6",
-    "image": "http://localhost:5173/img/mov_6.webp",
+    "image": "./img/mov_6.webp",
     "ekhtesasi": true,
     "detail": {
       "id": "1",
-      "background": "http://localhost:5173/img/bg/bg6.webp",
+      "background": "./img/bg/bg6.webp",
       "title": "لالایی",
       "artist": "کارگردان: احمد درویشعلی پور",
       "zhanr": ["موسیقی", "خانوادگی"],
@@ -249,25 +249,25 @@
         {
           "id": "1",
           "title": "فصل 1 قسمت 1",
-          "image": "http://localhost:5173/img/slider2/lala/1.webp",
+          "image": "./img/slider2/lala/1.webp",
           "lock": true
         },
         {
           "id": "2",
           "title": "فصل 1 قسمت 2",
-          "image": "http://localhost:5173/img/slider2/lala/2.webp",
+          "image": "./img/slider2/lala/2.webp",
           "lock": true
         },
         {
           "id": "3",
           "title": "فصل 1 قسمت 3",
-          "image": "http://localhost:5173/img/slider2/lala/3.webp",
+          "image": "./img/slider2/lala/3.webp",
           "lock": true
         },
         {
           "id": "4",
           "title": "فصل 1 قسمت 4",
-          "image": "http://localhost:5173/img/slider2/lala/4.webp",
+          "image": "./img/slider2/lala/4.webp",
           "lock": true
         }
       ]

@@ -4,6 +4,6 @@
     "title": "تمساح خونی",
     "artist": "کارگردان: احمد درویشعلی پور",
     "zhanr": ["کمدی", "اکشن"],
-    "image": "http://localhost:5173/img/temsah.png"
+    "image": "./img/temsah.png"
   }
 ]
